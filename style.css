@@ -1,0 +1,13 @@
+body {
+  background-image: url('https://png.pngtree.com/background/20211215/original/pngtree-light-color-simple-border-korean-autumn-eve-festival-food-background-picture-image_1452400.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 300%;
+  color: rgb(0, 0, 0);
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  padding: 300px;
+}
